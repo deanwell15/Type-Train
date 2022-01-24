@@ -21,6 +21,6 @@
 
 ### Запуск приложения
 ---
-git clone https://github.com/deanwell15/Type-Train.git
-cd Type-Train
+git clone https://github.com/deanwell15/Type-Train.git  
+cd Type-Train  
 docker-compose up -d
